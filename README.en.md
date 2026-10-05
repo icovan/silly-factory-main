@@ -1,8 +1,14 @@
-[中文](./README.md) | **English**
+[![Language: 中文](https://img.shields.io/badge/lang-中文-red)](./README.md)
+[![Language: English](https://img.shields.io/badge/lang-English-blue)](./README.en.md)
 
 # Silly Factory
 
 > Turn your nonsense into video. Drop a topic, let the machine surprise you.
+
+[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
+[![Website](https://img.shields.io/badge/website-203588.xyz-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white)](https://203588.xyz)
+[![No AI Video](https://img.shields.io/badge/AI_Video-拒绝-red?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/icovan/silly-factory-main)
+[![Deterministic](https://img.shields.io/badge/Render-确定性-8B5CF6?style=for-the-badge&logo=gnubash&logoColor=white)](https://github.com/icovan/silly-factory-main)
 
 ---
 ## Let's be clear: this is not AI video generation
