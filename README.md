@@ -1,8 +1,14 @@
-**中文** | [English](./README.en.md)
+[![Language: 中文](https://img.shields.io/badge/lang-中文-red)](./README.md)
+[![Language: English](https://img.shields.io/badge/lang-English-blue)](./README.en.md)
 
 # 智障工厂™
 > 把你的废话做成视频。丢一个主题，机器负责意想不到。
 主题进去，大约 15 秒的竖屏视频出来。密钥填在页面顶部的箭头里，只留在你的浏览器。
+
+[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
+[![Website](https://img.shields.io/badge/website-203588.xyz-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white)](https://203588.xyz)
+[![No AI Video](https://img.shields.io/badge/AI_Video-拒绝-red?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/icovan/silly-factory-main)
+[![Deterministic](https://img.shields.io/badge/Render-确定性-8B5CF6?style=for-the-badge&logo=gnubash&logoColor=white)](https://github.com/icovan/silly-factory-main)
 
 ## 先说清楚，这不是 AI 生视频
 别人：生图、生视频、4K、写实、光影、赛博朋克、烧显卡、抽卡。
