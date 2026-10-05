@@ -1,0 +1,10 @@
+node_modules
+.next
+.git
+.remotion-bundle
+.remotion-check
+.remotion-worker.pid
+public/generated
+output
+desktop
+*.exe

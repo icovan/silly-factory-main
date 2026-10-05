@@ -1,0 +1,12 @@
+export const FPS = 30;
+export const VIDEO_WIDTH = 1080;
+export const VIDEO_HEIGHT = 1920;
+export const VIDEO_DURATION_FRAMES = 450;
+export const COVER_FRAMES = 30;
+export const PAPER = "#F7F7F3";
+export const INK = "#111111";
+export const ACCENT = "#E23B2E";
+export const SAFE = { top: 220, right: 160, bottom: 380, left: 96 };
+export const COVER_TITLE = 112;
+export const PUNCH_SIZE = 72;
+export const PUNCH_GAP = 36;

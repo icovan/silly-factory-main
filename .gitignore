@@ -1,0 +1,12 @@
+node_modules
+.next
+.remotion-bundle
+.remotion-check
+.remotion-worker.pid
+public/generated
+output
+.env
+.env.local
+dist
+/*.exe
+desktop/.cache
