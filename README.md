@@ -11,49 +11,6 @@ npm run dev
 
 打开 http://localhost:3000 。
 
-## 推到 GitHub
-
-1. 打开 https://github.com/new ，建一个空仓库。不要勾 README。
-2. 在项目文件夹里执行（地址换成你的）：
-
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/你的用户名/silly-factory.git
-git push -u origin main
-```
-
-弹出登录就用浏览器登 GitHub。不要上传 `.env`。
-
-以后改完再推：
-
-```bash
-git add .
-git commit -m "写一句改了什么"
-git push
-```
-
-## 服务器 Docker
-
-服务器先装好 Docker。在项目文件夹里：
-
-```bash
-docker build -t silly-factory .
-docker run -d --name silly-factory -p 3000:3000 silly-factory
-```
-
-浏览器打开 `http://服务器IP:3000` 。密钥仍由每个用户自己在页面里填。
-
-更新时：
-
-```bash
-docker build -t silly-factory .
-docker rm -f silly-factory
-docker run -d --name silly-factory -p 3000:3000 silly-factory
-```
-
 ## 打包成 PC 版
 
 图标放在 `desktop/icon/app.ico`。一个文件里要有 16、32、48、256 四张正方形图。放好后在项目文件夹里运行：
