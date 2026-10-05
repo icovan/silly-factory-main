@@ -1,3 +1,5 @@
+[中文](./README.md) | **English**
+
 # Silly Factory
 
 > Turn your nonsense into video. Drop a topic, let the machine surprise you.
